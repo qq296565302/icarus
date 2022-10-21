@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a,b as o}from"./app.de078df7.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"other/twitter.md","lastUpdated":null}'),r={name:"other/twitter.md"},s=o("p",null,"...",-1),n=[s];function c(_,d,i,l,p,m){return a(),e("div",null,n)}const u=t(r,[["render",c]]);export{h as __pageData,u as default};
